@@ -1,0 +1,13 @@
+### codes
+- [X] tb_FFT_TOP_BE.v
+- [X] BF.v
+- [X] CLIP.v
+- [X] COUNTER_VER3.v
+- [X] CPX_MULT.v
+- [X] D_REG.v
+- [X] FFT_Top.v
+- [X] MEM_R_CTRL.v
+- [X] MEM_W_CTRL.v
+- [X] ROUND_2B.v
+- [X] SINGLE_BF.v
+- [X] TW_ROM.v
